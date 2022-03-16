@@ -2,7 +2,7 @@
 - 👀 I’m interested in Education Sector
 - 🌱 I’m currently learning Cloud Technology 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @albolink
+- 📫 How to reach me albogasty@gmail.com
 
 <!---
 Alkiyogoma/Alkiyogoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
