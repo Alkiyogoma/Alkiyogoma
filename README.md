@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Albogast Dionis
-- 👀 I’m interested in Education Sector
+- 👀 I’m Web(Full-stack) Developer
 - 🌱 I’m currently learning Cloud Technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me albogasty@gmail.com
