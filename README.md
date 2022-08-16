@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Albogast Dionis
 - 👀 I’m Web(Full-stack) Developer
 - 🌱 I’m currently learning Cloud Technology 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source Projects (Education)
 - 📫 How to reach me albogasty@gmail.com
 
 <!---
