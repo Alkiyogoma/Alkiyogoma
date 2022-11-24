@@ -37,6 +37,8 @@
 [<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />](https://adobe.com/)
 <br />
 <br />
+
+
 ### Connect with me:
 
 [<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:albogasty@gmail.com)
@@ -52,12 +54,16 @@
 &nbsp;
 
 <!-- Talking about you -->
-<!-- **Talking about Personal Stuffs:** -->
+<p align="center">
+         <img src="https://github-readme-stats.vercel.app/api?username=Alkiyogoma&theme=blue-green&include_all_commits=true&show_icons=true&count_private=true" alt="Streak Stats" />
 
-<!-- Any image aligned to the right. Beware the width -->
- ![Albogast's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alkiyogoma&theme=blue-green&include_all_commits=true&show_icons=true&count_private=true)
-
-<!-- <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+</p>
+<p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkiyogoma&theme=dark" alt="Streak Stats" />
+    </p>
+ <!--   <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alkiyogoma&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
+    </p>-->
 
 <!---
 Alkiyogoma/Alkiyogoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
