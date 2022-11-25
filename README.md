@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Project
 
 
-### Web Technologies:
+### Backend Tools & Technologies:
 
 [<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />](https://php.net/)
 [<img align="left" alt="Albogast | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />](https://laravel.com/)
