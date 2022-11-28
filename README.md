@@ -44,8 +44,6 @@
 [<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:albogasty@gmail.com)
 [<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/albolink)
 [<img align="left" alt="Albogast | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://tz.linkedin.com/in/albolink)
-[<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/maas.svg" />](https://shulesoft.com/)
-[<img align="left" alt="Albogast | WhatSapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/255744158016?text=I'm%20Interested%20in%20your%20Code%20from%20Github)
 [<img align="left" alt="Albogast | WhatSapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](https://join.skype.com/invite/DAetncDaMuEI)
 <br />
 <br />
