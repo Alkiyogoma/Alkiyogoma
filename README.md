@@ -50,10 +50,9 @@
 
 
 &nbsp;
-
-<!-- Talking about you -->
-         <img src="https://github-readme-stats.vercel.app/api?username=Alkiyogoma&theme=blue-green&include_all_commits=true&show_icons=true&count_private=true" alt="Albogast Stats" />
-
+<p>
+         <img src="https://github-readme-stats.vercel.app/api?username=Alkiyogoma&theme=blue-green&include_all_commits=true&show_icons=true&count_private=true" alt="Streak Stats" />
+</p>      
 <!-- <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkiyogoma&theme=dark" alt="Streak Stats" />
     </p> -->
