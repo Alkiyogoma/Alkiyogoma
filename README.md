@@ -14,9 +14,6 @@
 [<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />](https://mysql.com/)
 [<img align="left" alt="Albogast | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />](https://postgresql.com/)
 [<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/)
-[<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />](https://apache.com/)
-[<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />](https://nginx.com/)
-[<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />](https://shulesoft.com/)
 [<img align="left" alt="Albogast | WhatSapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />](https://wa.me/255744158016?text=I'm%20Interested%20in%20your%20Code%20from%20Github)
 <br />
 <br />
@@ -28,12 +25,9 @@
 [<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />](https://vue.com/albolink)
 [<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" />](https://tailwindcss.com/)
 [<img align="left" alt="Albogast | WhatSapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />](https://wa.me/255744158016?text=I'm%20Interested%20in%20your%20Code%20from%20Github)
-[<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />](https://sass-lang.com/)
 [<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />](https://javascript.com)
 [<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />](https://jquery.com/albolink)
-[<img align="left" alt="Albogast | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />](https://jquery.com/in/)
 [<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://wordpress.com/)
-[<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fastapi.svg" />](https://fastapi.com/)
 [<img align="left" alt="Albogast | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />](https://adobe.com/)
 <br />
 <br />
