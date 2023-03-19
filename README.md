@@ -33,6 +33,7 @@
 <br />
 
 
+<!-- 
 ### Connect with me:
 
 [<img align="left" alt="Albogast | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:albogasty@gmail.com)
@@ -42,12 +43,11 @@
 <br />
 <br />
 
-
 &nbsp;
 <p>
          <img src="https://github-readme-stats.vercel.app/api?username=Alkiyogoma&theme=blue-green&include_all_commits=true&show_icons=true&count_private=true" alt="Streak Stats" />
 </p>      
-<!-- <p align="center">
+ <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkiyogoma&theme=dark" alt="Streak Stats" />
     </p> -->
  <!--   <p align="center">
