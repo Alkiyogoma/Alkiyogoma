@@ -13,7 +13,7 @@ I'm a big fan of Vue.js, Nuxt.js, Laravel, Django and Tailwind.
 ## 👨‍💻 My Favourite Tools
 
 
-<img src="https://raw.githubusercontent.com/nicodevs/nicodevs/main/img/tools.svg" alt="Laravel, Vue.js, Nuxt.js, Tailwind CSS" height="250px">
+<img src="https://github.com/Alkiyogoma/Alkiyogoma/blob/main/tools.png" alt="Laravel, Django, Postgres, Mysql, Boostrap, Figma, Vue.js, Nuxt.js, Tailwind CSS" height="250px">
 
 ## 🤝 Connect with me:
 
