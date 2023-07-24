@@ -1,8 +1,6 @@
 # Hi! I am Albogast Kiyogoma 👋
 
-### Frontend Software Developer at [Zuno Carbon](https://www.zunocarbon.com/)
-
-I'm a software developer from Tanzania, currently living in Dar es salaam).
+I'm a software developer from Tanzania, currently living in Dar es salaam.
 
 I have 6 years of professional experience working for companies and have exposure to various dev tools in my career. Most of my experience lies in the full-stack development of web applications. 
 
@@ -10,7 +8,7 @@ I'm a big fan of Vue.js, Nuxt.js, Laravel, Django and Tailwind.
 
 - 💞️ I’m looking to collaborate on any project
 
-## 👨‍💻 My Favourite Tools
+## 👨‍💻 My Favourite Dev Tools
 
 
 <img src="https://github.com/Alkiyogoma/Alkiyogoma/blob/main/tools.png" alt="Laravel, Django, Postgres, Mysql, Boostrap, Figma, Vue.js, Nuxt.js, Tailwind CSS" height="550px">
