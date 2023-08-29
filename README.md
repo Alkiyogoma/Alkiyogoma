@@ -8,16 +8,19 @@ I'm a big fan of Vue.js, Nuxt.js, Laravel, Django and Tailwind.
 
 - 💞️ I’m looking to collaborate on any project
 
-## 👨‍💻 My Favourite Dev Tools
-
-
-<img src="https://github.com/Alkiyogoma/Alkiyogoma/blob/main/tools.png" alt="Laravel, Django, Postgres, Mysql, Boostrap, Figma, Vue.js, Nuxt.js, Tailwind CSS" height="550px">
-
 ## 🤝 Connect with me:
 
 [<img align="left" alt="albolink | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="albolink | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="albolink | LinkedIn" src="https://img.shields.io/badge/Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+
+<br />
+<br />
+
+## 👨‍💻 My Favourite Dev Tools
+
+
+<img src="https://github.com/Alkiyogoma/Alkiyogoma/blob/main/tools.png" alt="Laravel, Django, Postgres, Mysql, Boostrap, Figma, Vue.js, Nuxt.js, Tailwind CSS" height="550px">
 
 
 
