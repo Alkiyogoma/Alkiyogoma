@@ -2,9 +2,10 @@
 
 I'm a software developer from Tanzania, based in Dar es salaam.
 
-I have 6 years of professional experience working for companies and have exposure to various dev tools in my career. Most of my experience lies in the full-stack development of web applications. 
+I have 6 years of professional experience working for companies and have exposure to various dev tools in my career. 
+Most of my experience lies in the full-stack development of web applications. 
 
-I'm a big fan of Vue.js, Nuxt.js, Laravel, Django and Tailwind.
+I'm a big fan of Vue.js, Nuxt.js, Next.js, Laravel, Django and Tailwind.
 
 
 #### 🤝 Connect with me:
