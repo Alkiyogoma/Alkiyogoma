@@ -9,15 +9,13 @@ I'm a big fan of Vue.js, Nuxt.js, Laravel, Django and Tailwind.
 
 #### 🤝 Connect with me:
 
-[<img align="left" alt="albolink | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="albolink | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="albolink | LinkedIn" src="https://img.shields.io/badge/Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+[<img align="left" alt="albolink | Gmail" src="https://img.shields.io/badge/Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 
 <br />
 
 ---
 
-[twitter]: https://twitter.com/albolink
 [linkedin]: https://www.linkedin.com/in/albolink/
 [gmail]: mailto:albogasty@gmail.com
 
